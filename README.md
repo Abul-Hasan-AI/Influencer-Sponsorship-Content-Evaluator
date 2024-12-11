@@ -63,17 +63,3 @@ https://github.com/user-attachments/assets/cdf696ee-7d51-4724-b8bd-208f32c2247b
 
 https://github.com/user-attachments/assets/42412cb5-37f5-43ba-a5b3-5a6ac7baf612
 
-
-
-## Installation
-1. Clone the repository:
-   ```bash
-   git clone https://github.com/yourusername/influencer-sponsorship-evaluator.git
-
-2. Navigate to the project directory:
-   ```bash 
-   cd influencer-sponsorship-evaluator
- 
-3. Create a virtual environment and activate it:
-
-    On Windows:
