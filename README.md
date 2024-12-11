@@ -39,3 +39,6 @@ Here are some video examples of the app in action:
    ```bash 
    cd influencer-sponsorship-evaluator
  
+3. Create a virtual environment and activate it:
+
+    On Windows:
