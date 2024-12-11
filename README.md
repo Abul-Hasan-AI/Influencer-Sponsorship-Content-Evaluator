@@ -27,9 +27,8 @@ The Influencer Sponsorship Content Evaluator is a Streamlit application designed
 Here are some video examples of the app in action:
 
 ### Approved Topics
-<video controls src="video_examples/test1.mp4" title="Title"></video>
 
-
+- Example 1
 https://github.com/user-attachments/assets/4c661d50-44f6-4145-a7c3-530ebeae2a58
 
 
