@@ -18,7 +18,7 @@ def topic_guidelines_extractor(brief_file_content):
 
 
 def script_guidelines_extractor(brief_file_content):
-
+    """ Function for extracting script related guidelines from the brief"""
     pattern = re.compile(r"### Script(.*?)## \*\*Step 3", re.DOTALL)
     match = pattern.search(brief_file_content)
 
