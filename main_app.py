@@ -30,7 +30,7 @@ if app_type == "Topic Evaluator":
             stringio = StringIO(brief_file.getvalue().decode("utf-8"))
             brief_data = stringio.read()
 
-            # Extract guidelines from the brief file
+            # Extracting topic guidelines from the brief file
             brand_brief = topic_guidelines_extractor(brief_data)
 
             # Defining the message format
