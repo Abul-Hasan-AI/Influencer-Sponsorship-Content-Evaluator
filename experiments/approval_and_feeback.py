@@ -98,7 +98,7 @@ Call to action
 •	Neglecting an Introduction: Avoid diving straight into your project without first explaining what Milanote is. Briefly describe “Milanote is a tool for organizing your creative projects.”
 •	Sign-Up Instructions: Refrain from mentioning 'downloading' Milanote. Instead, direct users to 'sign up for free.'
 •	Forgetting Call to Action: Remember to encourage your viewers to sign up using the link in the description. </aside>"""
-# Define the messages
+
 messages = [
     (
         "system",
@@ -110,6 +110,6 @@ messages = [
     ),
 ]
 
-# Invoke the LLM
+
 ai_msg = llm.invoke(messages)
 print(ai_msg.content)
