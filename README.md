@@ -34,7 +34,10 @@ Here are some video examples of the app in action:
 
 - [Example 1](#)
 
-https://github.com/user-attachments/assets/4c661d50-44f6-4145-a7c3-530ebeae2a58
+
+https://github.com/user-attachments/assets/e235076b-2da0-4cad-ad3b-4a94122f4b21
+
+
 
 
 - [Example 2](#)
