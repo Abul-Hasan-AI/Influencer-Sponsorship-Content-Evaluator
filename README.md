@@ -28,7 +28,8 @@ Here are some video examples of the app in action:
 
 ### Approved Topics
 
-- Example 1
+- Example 1:
+
 https://github.com/user-attachments/assets/4c661d50-44f6-4145-a7c3-530ebeae2a58
 
 
