@@ -5,9 +5,7 @@ from docx import Document
 llm = ChatOllama(
     model="qwen2.5:7b",
     temperature=0,
-   
 )
-
 
 
 # Defining the prompt
@@ -102,8 +100,14 @@ Call to action
 •	Forgetting Call to Action: Remember to encourage your viewers to sign up using the link in the description. </aside>"""
 # Define the messages
 messages = [
-    ("system", "You are a helpful assistant that evaluates influencer content submissions against a brand's brief."),
-    ("human", prompt.format(brand_brief = brand_brief ,influencer_submission=influncer_sub))
+    (
+        "system",
+        "You are a helpful assistant that evaluates influencer content submissions against a brand's brief.",
+    ),
+    (
+        "human",
+        prompt.format(brand_brief=brand_brief, influencer_submission=influncer_sub),
+    ),
 ]
 
 # Invoke the LLM
