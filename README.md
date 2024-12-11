@@ -54,10 +54,15 @@ https://github.com/user-attachments/assets/ef2f0cd2-c8b2-41f3-8b6f-5d3658600494
 - [Example](#)
 
 
-### Rejected Scripts
-- [Example 1](#)
+https://github.com/user-attachments/assets/cdf696ee-7d51-4724-b8bd-208f32c2247b
 
-https://github.com/user-attachments/assets/d1730d21-6bfe-46f4-bc78-f0be35d1a74e
+
+
+### Rejected Scripts
+- [Example](#)
+
+https://github.com/user-attachments/assets/42412cb5-37f5-43ba-a5b3-5a6ac7baf612
+
 
 
 ## Installation
