@@ -16,7 +16,7 @@ llm = ChatOllama(
 st.title("Influencer Sponsorsorship Content Evaluator")
 
 # Input type selection
-app_type = st.selectbox("Select App Type", ["Topic Evaluator", "Script Evaluator"])
+app_type = st.selectbox("Select Content Type", ["Topic Evaluator", "Script Evaluator"])
 
 # Input fields
 brief_file = st.file_uploader("Upload Brief File", type=["md"])
