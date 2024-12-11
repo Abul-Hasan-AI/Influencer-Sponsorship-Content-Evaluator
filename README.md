@@ -10,18 +10,22 @@ The Influencer Sponsorship Content Evaluator is a Streamlit application designed
 - **Small Open Source LLM**: Utilizes a small open source language model for evaluation.
 
 ## Usage
-1. Run the Streamlit app:
+1. Prerequisites:
+   ```bash
+   pip install -r requirements.txt
+
+2. Run the Streamlit app:
 
     ```bash
     streamlit run main_app.py
 
-2. Upload your brief file in markdown format.
+3. Upload your brief file in markdown format.
 
-3. Select the content type (video topic or script) from the dropdown menu.
+4. Select the content type (video topic or script) from the dropdown menu.
 
-4. Enter the topic or script in the provided input field.
+5. Enter the topic or script in the provided input field.
 
-5. Click the "Evaluate" button to receive feedback on the content.
+6. Click the "Evaluate" button to receive feedback on the content.
 
 ## Examples
 Here are some video examples of the app in action:
