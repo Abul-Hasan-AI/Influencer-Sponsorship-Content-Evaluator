@@ -28,36 +28,38 @@ Here are some video examples of the app in action:
 
 ### Approved Topics
 
-- [**Example 1**](#)
+- [Example 1](#)
 
 https://github.com/user-attachments/assets/4c661d50-44f6-4145-a7c3-530ebeae2a58
 
 
 - [Example 2](#)
 
+https://github.com/user-attachments/assets/13f043f4-97ea-4f6a-98a6-85b3b5c6bf91
+
+
 ### Rejected Topics
 - [Example 1](#)
+
+https://github.com/user-attachments/assets/3a519e3c-d31e-47e6-80cf-eb5c5910dedb
+
+
 - [Example 2](#)
+  
+
+https://github.com/user-attachments/assets/ef2f0cd2-c8b2-41f3-8b6f-5d3658600494
+
+
 ### Approved Scripts
-- [Example 1](#)
-- [Example 2](#)
+- [Example](#)
+
+
+https://github.com/user-attachments/assets/cdf696ee-7d51-4724-b8bd-208f32c2247b
+
+
 
 ### Rejected Scripts
-- [Example 1](#)
-- [Example 2](#)
+- [Example](#)
 
+https://github.com/user-attachments/assets/42412cb5-37f5-43ba-a5b3-5a6ac7baf612
 
-
-
-## Installation
-1. Clone the repository:
-   ```bash
-   git clone https://github.com/yourusername/influencer-sponsorship-evaluator.git
-
-2. Navigate to the project directory:
-   ```bash 
-   cd influencer-sponsorship-evaluator
- 
-3. Create a virtual environment and activate it:
-
-    On Windows:
