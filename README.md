@@ -29,6 +29,10 @@ Here are some video examples of the app in action:
 ### Approved Topics
 <video controls src="video_examples/test1.mp4" title="Title"></video>
 
+
+https://github.com/user-attachments/assets/4c661d50-44f6-4145-a7c3-530ebeae2a58
+
+
 - [Example 2](#)
 
 ### Rejected Topics
