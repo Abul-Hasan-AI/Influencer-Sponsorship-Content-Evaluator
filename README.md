@@ -51,14 +51,13 @@ https://github.com/user-attachments/assets/ef2f0cd2-c8b2-41f3-8b6f-5d3658600494
 
 
 ### Approved Scripts
-- [Example 1](#)
-- [Example 2](#)
+- [Example](#)
+
 
 ### Rejected Scripts
 - [Example 1](#)
-- [Example 2](#)
 
-
+https://github.com/user-attachments/assets/d1730d21-6bfe-46f4-bc78-f0be35d1a74e
 
 
 ## Installation
