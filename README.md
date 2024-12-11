@@ -27,7 +27,8 @@ The Influencer Sponsorship Content Evaluator is a Streamlit application designed
 Here are some video examples of the app in action:
 
 ### Approved Topics
-- [Example 1](#)
+- <video width="320" height="240" controls> <source src="video_examples/test1.mp4" type="video/mp4"> Your browser does not support the video tag. </video>
+
 - [Example 2](#)
 
 ### Rejected Topics
