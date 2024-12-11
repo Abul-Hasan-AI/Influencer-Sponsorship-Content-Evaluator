@@ -29,6 +29,19 @@ Here are some video examples of the app in action:
 - [Example 2](#)
 
 
+## Usage
+1. Run the Streamlit app:
+
+    ```bash
+    streamlit run main_app.py
+
+2. Upload your brief file in markdown format.
+
+3. Select the content type (video topic or script) from the dropdown menu.
+
+4. Enter the topic or script in the provided input field.
+
+5. Click the "Evaluate" button to receive feedback on the content.
 
 ## Installation
 1. Clone the repository:
