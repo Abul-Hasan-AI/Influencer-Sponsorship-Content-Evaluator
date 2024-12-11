@@ -28,10 +28,9 @@ Here are some video examples of the app in action:
 
 ### Approved Topics
 
-- **Example 1:**
-   <video width="320" height="240" controls> <source src="https://github.com/user-attachments/assets/4c661d50-44f6-4145-a7c3-530ebeae2a58" type="video/mp4"> Your browser does not support the video tag. </video>
+- [**Example 1**](#)
 
-<!-- https://github.com/user-attachments/assets/4c661d50-44f6-4145-a7c3-530ebeae2a58 -->
+https://github.com/user-attachments/assets/4c661d50-44f6-4145-a7c3-530ebeae2a58
 
 
 - [Example 2](#)
@@ -39,7 +38,6 @@ Here are some video examples of the app in action:
 ### Rejected Topics
 - [Example 1](#)
 - [Example 2](#)
-
 ### Approved Scripts
 - [Example 1](#)
 - [Example 2](#)
